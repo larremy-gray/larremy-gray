@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larremy-gray
 - 👀 I’m interested in ... developing my Python and SQL knowledge
 - 🌱 I’m currently learning ... specific Python libraries and packages, Git
-- 💞️ I’m looking to collaborate on ...getting a job?
+- 💞️ I’m looking to collaborate on ...???
 - 📫 How to reach me ... via email lagr42621@outlook.com
 
 <!---
